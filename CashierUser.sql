@@ -1,5 +1,7 @@
 
 
+## MySql Script
+
 DELIMITER $$
 CREATE DEFINER=`root`@`localhost` PROCEDURE `myCashier3`()
 BEGIN
