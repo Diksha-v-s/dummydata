@@ -1,6 +1,9 @@
 
 
-## MySql Script
+
+
+
+## MySql Script to add dummy data
 
 DELIMITER $$
 CREATE DEFINER=`root`@`localhost` PROCEDURE `myCashier3`()
@@ -19,3 +22,5 @@ SET a=a+1;
 END WHILE label1;
 end$$
 DELIMITER ;
+
+
