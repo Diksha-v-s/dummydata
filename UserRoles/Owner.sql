@@ -1,8 +1,5 @@
-
-## Add DummyData to owner users
-
 DELIMITER $$
-CREATE DEFINER=`thiorjhwewf`@`%` PROCEDURE `myOwner1`()
+CREATE PROCEDURE `myOwner1`()
 BEGIN
 DECLARE a INT;
 SET a=1;
@@ -19,4 +16,3 @@ SET a=a+1;
 END WHILE label1;
 end
 DELIMITER;
-
