@@ -1,5 +1,3 @@
-
-
 DELIMITER $$
 CREATE PROCEDURE `myCompanies1`()
 BEGIN
