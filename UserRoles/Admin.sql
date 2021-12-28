@@ -1,6 +1,3 @@
-
-## Add Dummy Data to Admin Table 
-
 DELIMITER $$
 CREATE DEFINER=`thiorjhwewf`@`%` PROCEDURE `myAdmin1`()
 BEGIN
@@ -18,4 +15,3 @@ SET a=a+1;
 END WHILE label1;
 end
 DELIMITER;
-
