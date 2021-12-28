@@ -1,10 +1,5 @@
-
-
-Add Data data through Scripts in Users Table 
-
-
 DELIMITER $$
-CREATE DEFINER=`thiorjhwewf`@`%` PROCEDURE `myUsers2`()
+CREATE PROCEDURE `myUsers2`()
 BEGIN
 DECLARE a INT;
 SET a=1;
