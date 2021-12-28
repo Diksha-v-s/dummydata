@@ -1,6 +1,3 @@
-
-## Add Dummy Data to Fulfilment
-
 DELIMITER $$
 CREATE DEFINER=`thiorjhwewf`@`%` PROCEDURE `myFulfilment1`()
 BEGIN
@@ -18,5 +15,3 @@ SET a=a+1;
 END WHILE label1;
 end
 DELIMITER;
-
-
