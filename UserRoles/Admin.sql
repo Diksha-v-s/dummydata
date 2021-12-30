@@ -1,5 +1,5 @@
 DELIMITER $$
-CREATE DEFINER=`thiorjhwewf`@`%` PROCEDURE `myAdmin1`()
+CREATE PROCEDURE `Admin1`()
 BEGIN
 DECLARE a INT;
 SET a=1;
